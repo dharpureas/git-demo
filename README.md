@@ -1,1 +1,6 @@
-# hello world from dev2
+# Welcome to DevArmy Workshop
+## _This is the Git Workshop_
+
+- ✨Magic  here
+
+  
